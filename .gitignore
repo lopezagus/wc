@@ -1,0 +1,8 @@
+# Ignore Go binaries
+/bin/
+
+# Ignore Go build artifacts
+*.exe
+*.out
+*.so
+*.dll
